@@ -1,0 +1,6 @@
+flask
+flask-cors
+requests
+gunicorn
+sqlite3
+xml.etree.ElementTree
